@@ -1,9 +1,10 @@
-# 🪄 Welcome to My GitHub Profile! ✨
+# 🏄‍♀️ Amal Altamimi 
 
-<h1>Amal Altamimi</h1>
-<h3>Software Engineer</h3>
+**`Software Engineer`**
 
-<button style="background-color:blue; padding:60px, border-radius:20px"><a href="google.com">Test</a></button> 
+I'm a software engineer building my version of the digital world one step at a time, Each coding project is built from scratch, starting with careful planning and design to tackle real-world challenges through code.
+
+"Code the future, one line at a time"
 
 
 
