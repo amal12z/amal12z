@@ -3,11 +3,10 @@
 **`Software Engineer`**
 
 I'm a software engineer building my version of the digital world one step at a time, Each coding project is built from scratch, starting with careful planning and design to tackle real-world challenges through code.
-"Code the future, one line at a time"
+"Code the future, one line at a time"<br/>
 
-
-<br/>
 ---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amal-altamimi-10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amal-altamimi-10" height="30" width="40" /></a>
