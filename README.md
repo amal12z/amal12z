@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🪄 Welcome to My GitHub Profile! ✨
 
-<!--
-**amal12z/amal12z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header Image](https://your-image-url.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+👋 Hi, I'm **Amal altamimi**    
+💼 I'm a passionate Software Engineering and Cloud Computing
+📫 Reach me at: amalfahhad@outlook.sa
+
+---
+
+## Skills
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
+### Frameworks
+![React
+
